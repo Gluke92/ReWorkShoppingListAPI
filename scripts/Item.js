@@ -1,4 +1,4 @@
-/* global cuid */
+/* global cuid, Api*/
 
 // eslint-disable-next-line no-unused-vars
 const Item = (function(){

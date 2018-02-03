@@ -1,4 +1,4 @@
-/* global store */
+/* global store, Api */
 
 // eslint-disable-next-line no-unused-vars
 const shoppingList = (function(){
